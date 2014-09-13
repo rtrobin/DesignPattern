@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adapter", "Adapter\Adapter.vcxproj", "{09DE0F04-2E91-4383-B60D-5C381EB3524F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bridge", "Bridge\Bridge.vcxproj", "{34DD1F06-D024-4641-AA2B-48B9C9A45651}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{09DE0F04-2E91-4383-B60D-5C381EB3524F}.Debug|Win32.Build.0 = Debug|Win32
 		{09DE0F04-2E91-4383-B60D-5C381EB3524F}.Release|Win32.ActiveCfg = Release|Win32
 		{09DE0F04-2E91-4383-B60D-5C381EB3524F}.Release|Win32.Build.0 = Release|Win32
+		{34DD1F06-D024-4641-AA2B-48B9C9A45651}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34DD1F06-D024-4641-AA2B-48B9C9A45651}.Debug|Win32.Build.0 = Debug|Win32
+		{34DD1F06-D024-4641-AA2B-48B9C9A45651}.Release|Win32.ActiveCfg = Release|Win32
+		{34DD1F06-D024-4641-AA2B-48B9C9A45651}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
