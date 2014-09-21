@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Proxy", "Proxy\Proxy.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateMethod", "TemplateMethod\TemplateMethod.vcxproj", "{DC22A6D4-8524-42AA-AA4C-6D18903E68C3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.vcxproj", "{A100E738-790B-4F59-8A06-EB5F07950FBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -73,6 +75,10 @@ Global
 		{DC22A6D4-8524-42AA-AA4C-6D18903E68C3}.Debug|Win32.Build.0 = Debug|Win32
 		{DC22A6D4-8524-42AA-AA4C-6D18903E68C3}.Release|Win32.ActiveCfg = Release|Win32
 		{DC22A6D4-8524-42AA-AA4C-6D18903E68C3}.Release|Win32.Build.0 = Release|Win32
+		{A100E738-790B-4F59-8A06-EB5F07950FBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A100E738-790B-4F59-8A06-EB5F07950FBE}.Debug|Win32.Build.0 = Debug|Win32
+		{A100E738-790B-4F59-8A06-EB5F07950FBE}.Release|Win32.ActiveCfg = Release|Win32
+		{A100E738-790B-4F59-8A06-EB5F07950FBE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
