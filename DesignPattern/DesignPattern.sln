@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Composite", "Composite\Comp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decorator", "Decorator\Decorator.vcxproj", "{85A3F1BE-939E-463B-83D8-8193645C412F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Proxy", "Proxy\Proxy.vcxproj", "{863EE9C2-B20A-47B1-B2C6-18F9AD7DD9B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -61,6 +63,10 @@ Global
 		{85A3F1BE-939E-463B-83D8-8193645C412F}.Debug|Win32.Build.0 = Debug|Win32
 		{85A3F1BE-939E-463B-83D8-8193645C412F}.Release|Win32.ActiveCfg = Release|Win32
 		{85A3F1BE-939E-463B-83D8-8193645C412F}.Release|Win32.Build.0 = Release|Win32
+		{863EE9C2-B20A-47B1-B2C6-18F9AD7DD9B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{863EE9C2-B20A-47B1-B2C6-18F9AD7DD9B2}.Debug|Win32.Build.0 = Debug|Win32
+		{863EE9C2-B20A-47B1-B2C6-18F9AD7DD9B2}.Release|Win32.ActiveCfg = Release|Win32
+		{863EE9C2-B20A-47B1-B2C6-18F9AD7DD9B2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
