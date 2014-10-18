@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.vcxproj", "{A100E738-790B-4F59-8A06-EB5F07950FBE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flyweight", "Flyweight\Flyweight.vcxproj", "{6574F495-DC61-4E8B-86EC-3DEF8892FFA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -79,6 +81,10 @@ Global
 		{A100E738-790B-4F59-8A06-EB5F07950FBE}.Debug|Win32.Build.0 = Debug|Win32
 		{A100E738-790B-4F59-8A06-EB5F07950FBE}.Release|Win32.ActiveCfg = Release|Win32
 		{A100E738-790B-4F59-8A06-EB5F07950FBE}.Release|Win32.Build.0 = Release|Win32
+		{6574F495-DC61-4E8B-86EC-3DEF8892FFA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6574F495-DC61-4E8B-86EC-3DEF8892FFA9}.Debug|Win32.Build.0 = Debug|Win32
+		{6574F495-DC61-4E8B-86EC-3DEF8892FFA9}.Release|Win32.ActiveCfg = Release|Win32
+		{6574F495-DC61-4E8B-86EC-3DEF8892FFA9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
