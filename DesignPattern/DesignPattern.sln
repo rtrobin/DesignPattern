@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Command", "Command\Command.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Observer", "Observer\Observer.vcxproj", "{1AF29BED-B4A1-48DD-9043-2DA29763717F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy", "Strategy\Strategy.vcxproj", "{3D8F048C-E0FC-4E8B-BF13-947D0B7EFF69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -97,6 +99,10 @@ Global
 		{1AF29BED-B4A1-48DD-9043-2DA29763717F}.Debug|Win32.Build.0 = Debug|Win32
 		{1AF29BED-B4A1-48DD-9043-2DA29763717F}.Release|Win32.ActiveCfg = Release|Win32
 		{1AF29BED-B4A1-48DD-9043-2DA29763717F}.Release|Win32.Build.0 = Release|Win32
+		{3D8F048C-E0FC-4E8B-BF13-947D0B7EFF69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D8F048C-E0FC-4E8B-BF13-947D0B7EFF69}.Debug|Win32.Build.0 = Debug|Win32
+		{3D8F048C-E0FC-4E8B-BF13-947D0B7EFF69}.Release|Win32.ActiveCfg = Release|Win32
+		{3D8F048C-E0FC-4E8B-BF13-947D0B7EFF69}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
